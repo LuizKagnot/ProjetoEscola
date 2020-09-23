@@ -1,0 +1,31 @@
+Header{
+    text-align: center;
+    background-color: rgba(19, 45, 197, 0.829);
+}
+
+article{
+    text-align: center;
+    border-style: solid;
+    border: 50%;
+    background-color: rgba(30, 81, 148, 0.863)
+}
+
+footer{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(8, 164, 175);
+}
+
+b{
+    color: blacK;
+}
+
+a{
+    color: rgb(167, 1, 1);
+}
+
+paragrafo{
+    text-align: center;
+}
